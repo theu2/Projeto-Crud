@@ -20,7 +20,7 @@ Faça o download do programa de Banco de Dados MySql, com a função de criar e 
 ![MySql](mysql.png)
 
 * **Passo 4:**
-Criar o Banco de Dados no programa do MySql
+Criar o Banco de Dados no programa do MySql<br>
 ![Banco](banco.png)
                 
 * **Passo 5:**
