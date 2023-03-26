@@ -19,6 +19,8 @@ Selecione as configurações desejadas <br>
 Montar a estrura no arquivo index ou seja o corpo do seu projeto<br>
                 
                 ```html
+                <!DOCTYPE html>
+                <html lang="pt-br">
                 <?php 
                     include("views/blades/header.php"); 
                         include("controllers/funcoes.php");
@@ -36,4 +38,5 @@ Montar a estrura no arquivo index ou seja o corpo do seu projeto<br>
                 <?php
                   include("views/blades/footer.php")
                  ?>
+                 </html>
                 ```
