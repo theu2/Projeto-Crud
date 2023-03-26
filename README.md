@@ -93,6 +93,7 @@ Criar uma pasta Controllers onde ficará armazenado todos os arquivos de manipul
 Criar uma pasta views que ficará armazenado as telas de Cadastro e Atualizar Cadastro:
           
   1.Cadastro:
+  
             <?php include("blades/header.php") ?>
               <div class="container border rounded mt-5 bg-white shadow">
                 <form action="../controllers/cadastrarAluno.php" method="post">
