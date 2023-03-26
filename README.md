@@ -36,4 +36,13 @@ Montar a estrura no arquivo index ou seja o corpo do seu projeto<br>
                 <?php
                   include("views/blades/footer.php")
                  ?>
-               
+
+* **Passo 4:**
+Criar uma pasta Controllers onde ficará armazenado todos os arquivos de manipulação do Banco de Dados e suas funções:
+  1.Função de atualização de dados
+      
+      <?php
+          include("../models/conexao.php");
+             mysqli_query($conexao, "UPDATE alunos SET nome='".$_POST["alunoNome"]."', cidade='".$_POST["alunoCidade"]."', sexo='".$_POST["alunoSexo"]."' WHERE codigo = ".$_POST["alunoCodigo"]);
+              header("location:../");
+      ?>
