@@ -31,6 +31,6 @@ Montar a estrura no arquivo index ou seja o corpo do seu projeto<br>
                 <?php 
                     mostrarDados(); ?>
                 </div>
-<?php
-include("views/blades/footer.php")
-?>
+                <?php
+                  include("views/blades/footer.php")
+                 ?>
