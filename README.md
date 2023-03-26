@@ -65,6 +65,7 @@ Criar uma pasta Controllers onde ficará armazenado todos os arquivos de manipul
       ?>
 
   3.Função de deletar dados:
+  
       <?php
         include("../models/conexao.php");
           mysqli_query($conexao,"DELETE FROM alunos WHERE codigo = ".$_GET["ida"]);
@@ -72,6 +73,7 @@ Criar uma pasta Controllers onde ficará armazenado todos os arquivos de manipul
       ?>
       
   4.Função:
+  
       <?php
         include("../models/conexao.php");
           mysqli_query($conexao,"DELETE FROM alunos WHERE codigo = ".$_GET["ida"]);
