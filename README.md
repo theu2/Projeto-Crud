@@ -6,7 +6,12 @@ CRUD (Creat, Read, Update, Delete) é um acrônimo para as maneiras de se operar
 Passo a passo para criar um sistema de cadastro e consulta simples utilizando o Crud.
 
 * Passo 1:
-Faça o download do programa de servidor chamado Xampp, é possivel realizar o download no site <https://www.apachefriends.org/pt_br/download.html><br>
+Faça o download do programa de servidor chamado Xampp, é possivel realizar no site <https://www.apachefriends.org/pt_br/download.html><br>
 Selecione as configurações desejadas.<br>
-![XAMPP](xamp1)
+![XAMPP](xamp1.jpg)
+
+* Passo 2:
+Faça o download do programa Visual Code para alteração e manipulação dos Códigos de sua vontade no site <https://code.visualstudio.com/Download><br>
+Selecione as configurações desejadas <br>
+![Visual Code](visual1.png)
 
