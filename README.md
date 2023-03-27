@@ -8,7 +8,7 @@ Passo a passo para criar um sistema de cadastro e consulta simples utilizando o 
 * **Passo 1:**
 Faça o download do programa de servidor chamado Xampp, é possivel realizar no site <https://www.apachefriends.org/pt_br/download.html><br>
 Selecione as configurações desejadas.<br>
-![XAMPP](xamp1.jpg)
+![XAMPP](xamp1.jpg width="300px)
 
 * **Passo 2:**
 Faça o download do programa Visual Code para alteração e manipulação dos Códigos de sua vontade no site <https://code.visualstudio.com/Download><br>
