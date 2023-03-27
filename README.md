@@ -8,20 +8,23 @@ Passo a passo para criar um sistema de cadastro e consulta simples utilizando o 
 * **Passo 1:**
 Faça o download do programa de servidor chamado Xampp, é possivel realizar no site <https://www.apachefriends.org/pt_br/download.html><br>
 Selecione as configurações desejadas.<br>
-![XAMPP](xamp1.jpg width="300px)
+![xamp1](https://user-images.githubusercontent.com/54907593/228075908-99eba831-a587-4fbd-8eef-15b35eb53374.jpg)
 
 * **Passo 2:**
 Faça o download do programa Visual Code para alteração e manipulação dos Códigos de sua vontade no site <https://code.visualstudio.com/Download><br>
 Selecione as configurações desejadas <br>
-![Visual Code](visual1.png)
+![visual1](https://user-images.githubusercontent.com/54907593/228076053-3d82f4d3-856d-4668-ba3a-de69dee6ad77.png)
+
 
 * **Passo 3:**
 Faça o download do programa de Banco de Dados MySql, com a função de criar e armazenar as funções (cadastro,atualizações e delete de informações) no site <https://www.mysql.com/downloads/><br>
-![MySql](mysql.png)
+![mysql](https://user-images.githubusercontent.com/54907593/228076128-983407ea-7f07-4c74-a568-be1756936abc.png)
+
 
 * **Passo 4:**
 Criar o Banco de Dados no programa do MySql<br>
-![Banco](banco.png)
+![banco](https://user-images.githubusercontent.com/54907593/228076109-216a92f8-09d8-4c45-b667-a332c66472c3.png)
+
                 
 * **Passo 5:**
 Montar a estrura no arquivo index ou seja o corpo do seu projeto<br>
